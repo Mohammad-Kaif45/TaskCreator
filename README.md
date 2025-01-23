@@ -1,5 +1,6 @@
 # Task Creator
 Task Manager Application
+
 The Task Manager Application is a user-friendly web-based tool designed to help individuals efficiently manage their tasks and enhance productivity. This application allows users to create, edit, delete, and rename tasks seamlessly, providing a comprehensive solution for personal and professional task management.
 
 Key Features:
@@ -15,3 +16,4 @@ Rename Functionality: Users can rename tasks to better reflect their current sta
 User -Friendly Interface: The application boasts a clean and intuitive design, making it accessible for users of all skill levels. Navigation is straightforward, ensuring that users can focus on their tasks without unnecessary distractions.
 
 Technologies Used: The application is built using modern web technologies, including HTML, CSS, JavaScript, and a backend framework (e.g., Node.js, Django) for data management.
+
