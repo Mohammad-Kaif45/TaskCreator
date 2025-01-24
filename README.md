@@ -17,3 +17,5 @@ User -Friendly Interface: The application boasts a clean and intuitive design, m
 
 Technologies Used: The application is built using modern web technologies, including HTML, CSS, JavaScript, and a backend framework (e.g., Node.js, Django) for data management.
 
+
+
